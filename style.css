@@ -1,0 +1,68 @@
+body {
+	background-color: #e0e0e0;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	margin: 20px;
+}
+
+.container {
+    width: 900px;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+
+a {
+	color: blue;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: red;
+}
+
+h1 {
+	font-size: 24px;
+	letter-spacing: 2px;
+	margin-bottom: 5px;
+}
+
+.quote {
+	font-size: 12px;
+	margin-bottom: 20px;
+}
+
+.links {
+	margin-bottom: 30px;
+}
+
+.links a {
+	margin-right: 15px;
+}
+
+.posts {
+	margin-bottom: 40px;
+}
+
+.posts h2 {
+	font-size: 18px;
+	margin-bottom: 5px;
+}
+
+.date {
+	font-size: 12px;
+	color: #666666;
+	margin-bottom: 10px;
+}
+
+.hara {
+    float: none;
+    position: absolute;
+    top: 40px;
+    right: 40px;
+    width: 250px;
+}
+
+.hara img {
+    max-width: 250px;
+}
